@@ -1,0 +1,96 @@
+.box1{ color:white;
+border:solid black;
+background-color:red;
+height:30px;
+}
+.subbox
+{
+border: 1px solid transparent;
+background-color:whitesmoke;
+height:50px;
+}
+ol 
+{
+float:left;
+}
+
+ol li {
+float:left;
+width:130px;
+left:85%;
+list-style-type:none;
+font-family:barlow condensed, sans-serif;
+position:relative;
+font-size:18px;
+}
+ol li a
+{ 
+color:black;
+}
+ol li a:hover {
+border-bottom:4px solid red;
+}
+h2{
+margin-top:4px;
+left: -51%;
+position:relative;}
+font{
+color:red}
+.pic img{
+height:700px;
+width:1400px;}
+.text{
+position:absolute;
+top:30%;
+lefy:7%;
+}|
+h1{
+font-family:barlow condensed,sans-serif;
+width:460px;}
+h4{
+position:absolute;
+top:-35%;
+color:grey;
+font-family:barlow condensed,sans-serif;
+}
+.man img{
+height:300px;
+}
+.man{
+position:absolute;
+left:9%;
+border:solid darkgrey;}
+h5{
+position:absolute;
+left:10%;
+top:45%;
+color: white;
+font-family:barlow condensed,sans-serif;
+}
+.girl img{
+height:300px;}
+
+.girl  {
+position:absolute;
+left:38%;
+border:solid darkgrey;}
+h5{
+position:absolute;
+left:10%;
+top:40%;
+color: black;
+font-family:barlow condensed,sans-serif;
+}
+.kid img{
+height:300px;}
+.kid{
+position:absolute;
+left:68%;
+border:solid darkgrey;}
+h5{
+position:absolute;
+left:15%;
+top:45%;
+color: SOLID black;
+font-family:barlow condensed,sans-serif;
+}
